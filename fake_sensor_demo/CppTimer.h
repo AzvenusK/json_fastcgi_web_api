@@ -11,7 +11,7 @@
  **/
 
 #include <stdlib.h>
-#include <unistd.h>
+#include <Windows.h>
 #include <stdio.h>
 #include <signal.h>
 #include <time.h>

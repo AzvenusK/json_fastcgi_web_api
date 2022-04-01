@@ -8,7 +8,7 @@
  */
 
 #include <string.h>
-#include <unistd.h>
+#include <Windows.h>
 
 #include "json_fastcgi_web_api.h"
 #include "fakesensor.h"
