@@ -1,5 +1,5 @@
-#ifndef __FAKESENSOR_H
-#define __FAKESENSOR_H
+#ifndef __FAKESENSOR_H_
+#define __FAKESENSOR_H_
 
 /**
  * Copyright (c) 2021  Bernd Porr <mail@berndporr.me.uk>
